@@ -20,4 +20,31 @@ p{
 img {
   max-width: 500px;
   max-height: 500px;
+  display: flex;
+ 
+  
+}
+
+
+#root{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 100%;
+  min-height: 100%;
+
+}
+
+#container {
+  position: relative;
+  text-align: center;
+  color: black;
+  font-family: "URW Chancery L", cursive;
+}
+
+.centered {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
