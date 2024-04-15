@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
+import image1 from './image1.jpg'
+
 
 
 function MakeMeme(){
@@ -12,11 +14,11 @@ function MakeMeme(){
   console.log(quote)
   
 useEffect(() => {
-  //let text = "anything%20I%20want"
+  let text = "anything%20I%20want"
   let chooseImage = ChooseImage()
   
   
-fetch("https://ronreiter-meme-generator.p.rapidapi.com/meme?meme="+chooseImage+"&top="+quote+"&bottom=Bottom%20Text&font_size=50&font=Impact",{
+fetch("https://ronreiter-meme-generator.p.rapidapi.com/meme?meme="+chooseImage+"&top="+text+"&bottom=Bottom%20Text&font_size=50&font=Impact",{
   method: 'GET',
   headers: {
     'X-RapidAPI-Key': '31cb91c9a7msh6f0d885d1e93c71p1aff45jsn5f603a1a4a0b',
@@ -124,11 +126,16 @@ useEffect(() =>{
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-<React.StrictMode>
-  {/* <RonQuote /> */}
+<React.StrictMode> 
+   <RonQuote /> 
   
   <MakeMeme />
-  {/* <KanyeQuote/> */}
+
+  <div id="container">
+  <img src={image1} alt="meme"></img> 
+
+  <div class = "centered"><KanyeQuote/> </div>
+  </div>
 </React.StrictMode>
 )
 
