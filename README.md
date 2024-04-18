@@ -2,6 +2,10 @@ This application utilizes 3rd apis to retrieve quotes from the Parks and Rec cha
 
 The buttons allows you to generate new custom motivational images with an random quote and a random motivational background. 
 
+The deployed site:
+* https://ksugg38.github.io/a04/
+  
+
 
 #   The APIs:
 
