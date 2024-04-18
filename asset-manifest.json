@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.b282ed9f.css",
+    "main.js": "/react-gh-pages/static/js/main.efeec20c.js",
+    "static/js/453.ed3810f9.chunk.js": "/react-gh-pages/static/js/453.ed3810f9.chunk.js",
+    "static/media/fun_background2.png": "/react-gh-pages/static/media/fun_background2.e843377731d9fccff6d5.png",
+    "static/media/image3.png": "/react-gh-pages/static/media/image3.3479d062b9c81113b5a4.png",
+    "static/media/image4.avif": "/react-gh-pages/static/media/image4.019ef002448735070f02.avif",
+    "static/media/ParksAndRecFont.otf": "/react-gh-pages/static/media/ParksAndRecFont.bad56dc76ad017fdccf4.otf",
+    "static/media/image1.jpg": "/react-gh-pages/static/media/image1.3b7f1ee79f125a8dfc77.jpg",
+    "static/media/image5.avif": "/react-gh-pages/static/media/image5.64ce461f4a5a7c51f73e.avif",
+    "static/media/image2.webp": "/react-gh-pages/static/media/image2.a700af2bd21abf5f3d13.webp",
+    "index.html": "/react-gh-pages/index.html",
+    "main.b282ed9f.css.map": "/react-gh-pages/static/css/main.b282ed9f.css.map",
+    "main.efeec20c.js.map": "/react-gh-pages/static/js/main.efeec20c.js.map",
+    "453.ed3810f9.chunk.js.map": "/react-gh-pages/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b282ed9f.css",
+    "static/js/main.efeec20c.js"
+  ]
+}
