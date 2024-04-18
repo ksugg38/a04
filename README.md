@@ -2,28 +2,33 @@ This application utilizes 3rd apis to retrieve quotes from the Parks and Rec cha
 
 The buttons allows you to generate new custom motivational images with an random quote and a random motivational background. 
 
-The APIs:
+#   The APIs:
 
-Kanye West:
+### Kanye West:
 
-https://publicapis.io/kanye-rest-api
+* https://publicapis.io/kanye-rest-api
 
-https://kanye.rest/
+* https://kanye.rest/
 
-Ron Swanson:
 
-https://publicapis.io/ron-swanson-quoutes-api
+### Ron Swanson:
 
-https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api
+* https://publicapis.io/ron-swanson-quoutes-api
 
-The website uses the font from the Parks and Rec logo:
+* https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api
 
-https://ezzeefonts.com/fonts/parks-and-recreation-font/
+#### The website uses the font from the Parks and Rec logo:
 
-The website background is a custom image made from the following two images:
+* https://ezzeefonts.com/fonts/parks-and-recreation-font/
 
-https://www.thejournalthattalksback.com/character-coaching/ron-swanson
+#### The website background is a custom image made from the following two images:
 
-https://www.refinery29.com/en-us/2019/09/8355768/taylor-swift-kanye-west-interrupts-vma-relationship-timeline
+* https://www.thejournalthattalksback.com/character-coaching/ron-swanson
 
-The randomized motivational backgrounds are from Google Images
+* https://www.refinery29.com/en-us/2019/09/8355768/taylor-swift-kanye-west-interrupts-vma-relationship-timeline
+
+#### The randomized motivational backgrounds are from Google Images
+
+#### The audio is from:
+* https://tuna.voicemod.net/sound/c31e5154-3640-4c41-9027-5eee809e2c77
+
