@@ -2,13 +2,13 @@ This application utilizes 3rd apis to retrieve quotes from the Parks and Rec cha
 
 The buttons allows you to generate new custom motivational images with an random quote and a random motivational background. 
 
-##The APIs:
+The APIs:
 
-###Kanye West
+Kanye West
 https://publicapis.io/kanye-rest-api
 https://kanye.rest/
 
-###Ron Swanson
+Ron Swanson
 https://publicapis.io/ron-swanson-quoutes-api
 https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api
 
