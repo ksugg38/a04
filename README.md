@@ -2,6 +2,7 @@ This application utilizes 3rd apis to retrieve quotes from the Parks and Rec cha
 
 The buttons allows you to generate new custom motivational images with an random quote and a random motivational background. 
 
+
 #   The APIs:
 
 ### Kanye West:
@@ -32,3 +33,4 @@ The buttons allows you to generate new custom motivational images with an random
 #### The audio is from:
 * https://tuna.voicemod.net/sound/c31e5154-3640-4c41-9027-5eee809e2c77
 
+You may need to enable sound on the site settings to hear the audio.
