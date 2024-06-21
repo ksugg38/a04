@@ -47,7 +47,6 @@ function Page() {
   return (
     <>
       <div className="big_container">
-        <button className="ron" onClick={handleKanyeClick}> Kanye West</button>
         <div id="box" className="container" hidden={kanyeQuote.length === 0}>
           <img src={kanyeImage} alt="meme"></img>
           <div className="centered">
@@ -56,10 +55,10 @@ function Page() {
             -Kanye West
           </div>
         </div>
+        <button className="ron" onClick={handleKanyeClick}> Kanye West</button>
       </div>
 
       <div className="big_container">
-        <button className="kanye" onClick={handleRonClick}> Ron Swanson</button>
         <div id="box1" className="container" hidden={ronQuote.length === 0}>
           <img src={ronImage} alt="meme"></img>
           <div className="centered">
@@ -68,6 +67,7 @@ function Page() {
             -Ron Swanson
           </div>
         </div>
+        <button className="kanye" onClick={handleRonClick}> Ron Swanson</button>
       </div>
     </>
   )
